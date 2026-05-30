@@ -20,7 +20,7 @@ Predict which companies are financially distressed and likely to go bankrupt usi
 
 [Visit Kaggle website](https://www.kaggle.com/datasets/utkarshx27/american-companies-bankruptcy-prediction-dataset)
 
-**Tools used for analysis**
+**Tools used**
 
 ·  Python (EDA) 
 
@@ -28,7 +28,7 @@ Predict which companies are financially distressed and likely to go bankrupt usi
 
 ·  Power BI
 
-**Process Walkthrough**
+**Process**
 
 ·  Data cleaning 
 
@@ -40,15 +40,16 @@ Predict which companies are financially distressed and likely to go bankrupt usi
 
 ·  Dashboard Development in Power BI 
 
+
 **Dashboard**
 
-![placeholder](https://markdowntoword.io/placeholder.png)
+![](dashboard%20screenshot/Picture1.png)
 
-![placeholder](https://markdowntoword.io/placeholder.png)
+![](dashboard%20screenshot/Picture2.png)
 
-![placeholder](https://markdowntoword.io/placeholder.png)
+![](dashboard%20screenshot/Picture3.png)
 
-![placeholder](https://markdowntoword.io/placeholder.png)
+![](dashboard%20screenshot/Picture4.png)
 
 **Key findings**
 
